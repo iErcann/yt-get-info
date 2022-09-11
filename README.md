@@ -16,7 +16,7 @@ npm install yt-get-info
 
 ```ts
 
-import { getVideoInfo } from "../lib"
+import { getVideoInfo } from "yt-get-info";
 
 getVideoInfo("nSnLpFYLgDU").then(data => {
     // see VideoDetails object
