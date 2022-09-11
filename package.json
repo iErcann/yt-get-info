@@ -2,7 +2,7 @@
   "name": "yt-get-info",
   "version": "0.0.0-development",
   "description": "Get youtube video information",
-  "main": "./lib/src/index.js",
+  "main": "./lib/index.js",
   "files": [
     "lib/**/*"
   ],
